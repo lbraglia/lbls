@@ -5,5 +5,5 @@ Authors@R: "Luca Braglia <lbraglia@gmail.com> [aut, cre]"
 Description: Allows to avoid to hand-write labels for common variables
 Depends:
     R (>= 3.1.1)
-License: GPL>=3
+License: GPL-3
 LazyData: true
