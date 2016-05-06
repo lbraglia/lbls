@@ -4,10 +4,12 @@
 \alias{noYes}
 \title{No-Yes labels}
 \usage{
-noYes(len = c("long", "short"))
+noYes(len = c("long", "short"), lang = c("english", "italian"))
 }
 \arguments{
 \item{len}{lenght of labels}
+
+\item{lang}{language}
 }
 \description{
 No-Yes labels

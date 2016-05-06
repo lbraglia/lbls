@@ -4,10 +4,15 @@
 \alias{maleFemale}
 \title{Male-Female labels}
 \usage{
-maleFemale(len = c("short", "long"))
+maleFemale(len = c("short", "long"), lang = c("english", "italian"),
+  plural = FALSE)
 }
 \arguments{
 \item{len}{lenght of labels}
+
+\item{lang}{language}
+
+\item{plural}{use plural (only for italian)}
 }
 \description{
 Male-Female labels
