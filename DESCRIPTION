@@ -1,7 +1,7 @@
 Package: lbls
 Title: Factor labels goodies/utilities
 Version: 0.1
-Authors@R: "Luca Braglia <lbraglia@mailbox.org> [aut, cre]"
+Authors@R: "Luca Braglia <lbraglia@gmail.com> [aut, cre]"
 Description: Avoid to hand-write common labels.
 Depends:
     R (>= 3.1.1)
