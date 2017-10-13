@@ -12,4 +12,3 @@ controlCase(len = c("short", "long"))
 \description{
 Case-Control labels
 }
-

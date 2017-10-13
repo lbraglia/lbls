@@ -12,4 +12,3 @@ controlTreatment(len = c("short", "long"))
 \description{
 Control-Treatment labels
 }
-

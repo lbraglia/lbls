@@ -17,4 +17,3 @@ recist(len = c("short", "long"))
 \description{
 Recist (v1.1) labels for response evaluation criteria in solid tumors
 }
-

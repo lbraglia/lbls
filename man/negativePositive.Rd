@@ -12,4 +12,3 @@ negativePositive(len = c("short", "long"))
 \description{
 Negative-Positive labels
 }
-

@@ -12,4 +12,3 @@ rightLeft(len = c("long", "short"))
 \description{
 Right-Left labels
 }
-

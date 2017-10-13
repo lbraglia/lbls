@@ -17,4 +17,3 @@ maleFemale(len = c("short", "long"), lang = c("english", "italian"),
 \description{
 Male-Female labels
 }
-

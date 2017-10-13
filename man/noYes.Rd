@@ -14,4 +14,3 @@ noYes(len = c("long", "short"), lang = c("english", "italian"))
 \description{
 No-Yes labels
 }
-
