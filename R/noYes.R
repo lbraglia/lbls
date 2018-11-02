@@ -16,5 +16,5 @@ noYes <- function(len = c('long','short'), lang = c('english', 'italian')) {
              short = c('N' , 'S'),
              long  = c('No', 'Sì'))
   }
-      
+  
 }
