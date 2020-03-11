@@ -3,7 +3,6 @@
 \docType{package}
 \name{lbls}
 \alias{lbls}
-\alias{lbls-package}
 \title{lbls.}
 \description{
 lbls.

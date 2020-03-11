@@ -4,8 +4,11 @@
 \alias{maleFemale}
 \title{Male-Female labels}
 \usage{
-maleFemale(len = c("short", "long"), lang = c("english", "italian"),
-  plural = FALSE)
+maleFemale(
+  len = c("short", "long"),
+  lang = c("english", "italian"),
+  plural = FALSE
+)
 }
 \arguments{
 \item{len}{lenght of labels}
