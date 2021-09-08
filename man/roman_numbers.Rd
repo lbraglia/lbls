@@ -4,7 +4,9 @@
 \name{roman_numbers}
 \alias{roman_numbers}
 \title{Roman numbers from 1 to 100}
-\format{An object of class \code{character} of length 100.}
+\format{
+An object of class \code{character} of length 100.
+}
 \usage{
 roman_numbers
 }

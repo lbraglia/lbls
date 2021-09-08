@@ -4,6 +4,3 @@
 \name{lbls}
 \alias{lbls}
 \title{lbls.}
-\description{
-lbls.
-}
